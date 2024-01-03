@@ -1,0 +1,1 @@
+{'branch': ['15.0', '16.0'], 'repository' : ['l10n-brazil', 'l10n-canada', 'l10n-switzerland', 'OCB', 'l10n-italy', 'account-analytic', 'account-budgeting']}
